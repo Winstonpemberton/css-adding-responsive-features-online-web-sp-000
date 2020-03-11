@@ -9,7 +9,7 @@
   }
 }
 
-@@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 900px) {
   body { font-size: 85% }
   #logo h1 {
     height: 35%;
@@ -23,3 +23,5 @@
     -moz-column-count: 2;
   }
 }
+
+
