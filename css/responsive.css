@@ -19,5 +19,6 @@
   #social { top: 75px }
   col-3 p {
     column-count: 2;
+    -moz-column-count: 2;
   }
 }
