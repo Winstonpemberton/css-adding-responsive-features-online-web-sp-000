@@ -24,5 +24,10 @@
   }
 }
 @media only screen and(max-width: 750px) {
-  #navbar nav a { font-size: 0.9em;}
+  #navbar nav a { font-size: 0.9em; }
+  col-3 p {
+    column-count: 1;
+    -webkit-column-count: 1;
+    -moz-column-count: 1;    
+  }
 }
